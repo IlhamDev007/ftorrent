@@ -1,0 +1,14 @@
+# Python environment and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets and download data
+.env
+.env.*
+!.env.example
+*.torrent
+*.fastresume
+.torrent_state/
+Downloads/
