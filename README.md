@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/luffy.jpg" width="280" alt="Monkey D. Luffy wearing his straw hat">
+  <img src="assets/luffy.jpg" width="100" alt="Monkey D. Luffy wearing his straw hat">
   <h1>Ftorrent</h1>
   <p>A Windows terminal torrent downloader powered by Python and libtorrent.</p>
   <p>
